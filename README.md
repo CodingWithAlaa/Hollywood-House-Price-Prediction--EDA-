@@ -62,10 +62,4 @@ The goal of this project is to **predict house prices in Hollywood** and visuali
 
 ---
 
-## 🚀 Installation
 
-To get started with this project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/hollywood-price-prediction.git
