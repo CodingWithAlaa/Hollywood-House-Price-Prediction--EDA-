@@ -57,7 +57,6 @@ The goal of this project is to **predict house prices in Hollywood** and visuali
 - **Pandas** – For data manipulation and analysis.
 - **Seaborn** – For statistical data visualization.
 - **Matplotlib** – For creating static, animated, and interactive visualizations.
-- **Plotly** – For interactive and dynamic visualizations.
 - **Jupyter Notebook** – For documentation, code execution, and visualization.
 
 ---
